@@ -1,3 +1,5 @@
+[中文](https://github.com/DiamondPigeon/Multiplayer-optimization/blob/main/README.md)/ENGLISH
+
 If you want translate this modpack to other languages,you can open an issue.
 
 # Multiplayer optimization
@@ -14,4 +16,14 @@ If you want translate this modpack to other languages,you can open an issue.
 
 ## Install
 
- This modpack uses Modrinth format,you can use [ATLauncher](https://atlauncher.com)、[BakaXL](https://www.bakaxl.com)、[MultiMC](https://multimc.org) and [Prism Launcher](https://prismlauncher.org) to install.
+There are three formats of this modpack : "Modrinth" , "Curseforge" , "Mcbbs".
+
+If you are a chinese player , you can download "Mcbbs".
+
+## To do
+
+- [ ] Support Chinese in all the mods.
+
+- [ ] Support other languages.
+
+- [ ] Change the game interface.

@@ -24,9 +24,9 @@ If you want to help me translate this modpack to other languages,you can open an
 
 ## Install
 
-There are three formats of this modpack : "Modrinth" , "Curseforge" , "Mcbbs".
+There are three formats of this modpack : "Modrinth" , "Curseforge" , "MultiMC".
 
-If you are a chinese player , you can download "Mcbbs".
+"MultiMC" is suggested.
 
 ## To do
 

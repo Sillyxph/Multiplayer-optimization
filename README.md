@@ -26,9 +26,9 @@
 
 ## 安装
 
- 这里提供三种格式的整合包：Modrinth类型，Curseforge类型，Mcbbs类型。
+ 这里提供三种格式的整合包：Modrinth类型，Curseforge类型，MultiMC类型。
 
- 如果你是中文玩家，推荐使用Mcbbs类型。
+ 推荐使用MultiMC类型。
 
 ## To do
 

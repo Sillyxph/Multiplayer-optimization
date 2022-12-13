@@ -8,6 +8,7 @@ If you want to help me translate this modpack to other languages,you can open an
 
  This modpack will reduce the memory used by the game and have a better experience.
  Although this modpack can work in singleplayer , but I suggest you use it when you want to play on servers.
+ Support versions : 1.19.2Fabric , 1.19.3Fabric.
 
 ## Some can be disabled mods
 
@@ -24,9 +25,9 @@ If you want to help me translate this modpack to other languages,you can open an
 
 ## Install
 
-There are three formats of this modpack : "Modrinth" , "Curseforge" , "Mcbbs".
+There are three formats of this modpack : "Modrinth" , "Curseforge" , "MultiMC".
 
-If you are a chinese player , you can download "Mcbbs".
+"MultiMC" is suggested.
 
 ## To do
 

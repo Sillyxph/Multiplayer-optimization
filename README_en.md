@@ -25,9 +25,9 @@ If you want to help me translate this modpack to other languages,you can open an
 
 ## Install
 
-There are three formats of this modpack : "Modrinth" , "Curseforge" , "MultiMC".
+There are two formats of this modpack : "Modrinth" , "Curseforge".
 
-"MultiMC" is suggested.
+Or you kan download this repositorie.
 
 ## To do
 

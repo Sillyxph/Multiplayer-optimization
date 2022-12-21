@@ -26,9 +26,9 @@
 
 ## 安装
 
- 这里提供三种格式的整合包：Modrinth类型，Curseforge类型，MultiMC类型。
+ 这里提供两种格式的整合包：Modrinth类型，Curseforge类型。
 
- 推荐使用MultiMC类型。
+ 或者你可以自行下载这个仓库到本地。
 
 ## To do
 
